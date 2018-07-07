@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seas of War", "Assembly-CSharp-firstpass.csproj", "{559C2125-4AAB-1945-791F-01A258C1FFB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seas of War", "Assembly-CSharp.csproj", "{63AF11E9-28AB-6074-D8A8-AC0E504B4A59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seas of War", "Assembly-CSharp-Editor-firstpass.csproj", "{7F74E40F-6F42-8CDB-A8BA-2DF5C5FFC4C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559C2125-4AAB-1945-791F-01A258C1FFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559C2125-4AAB-1945-791F-01A258C1FFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559C2125-4AAB-1945-791F-01A258C1FFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559C2125-4AAB-1945-791F-01A258C1FFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AF11E9-28AB-6074-D8A8-AC0E504B4A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AF11E9-28AB-6074-D8A8-AC0E504B4A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AF11E9-28AB-6074-D8A8-AC0E504B4A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AF11E9-28AB-6074-D8A8-AC0E504B4A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F74E40F-6F42-8CDB-A8BA-2DF5C5FFC4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F74E40F-6F42-8CDB-A8BA-2DF5C5FFC4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F74E40F-6F42-8CDB-A8BA-2DF5C5FFC4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F74E40F-6F42-8CDB-A8BA-2DF5C5FFC4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
